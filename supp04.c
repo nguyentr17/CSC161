@@ -1,24 +1,3 @@
-/***********************************************************************
- * Name(s)  Trang Nguyen                                               *
- * Box(s):      4225                                                   *
- * Assignment name: Supplemental Problem 04                            *
- *      (25% off if name/number does not match assignment)             *
- * Assignment for Nov 15, 2016                                         *
- ***********************************************************************/
-
-/* *********************************************************************
- * Academic honesty certification:                                     *
- *   Written/online sources used:                                      *
- *     CSC161 Labs                                                     *
- *   Help obtained                                                     *
- *     Professor Walker                                                *
- *     ["none" required for Supplemental Problems                      *
- *   My/our signature(s) below confirms that the above list of sources *
- *   is complete AND that I/we have not talked to anyone else          *
- *   (e.g., CSC 161 students) about the solution to this problem       *
- *                                                                     *
- *   Signature:                                                        *
- ***********************************************************************/
 
 #include <stdio.h>
 #include <string.h>
